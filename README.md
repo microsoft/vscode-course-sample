@@ -1,5 +1,10 @@
+# DevContainers in Education
 
-# Contributing
+A sample project demonstrating the use of DevContainers in education. This project includes a preconfigured Python DevContainer and two sample Python programming assignments. 
+
+For more information about developing in remote containers in Visual Studio Code, check out the [remote documentation](https://code.visualstudio.com/docs/remote/containers).
+
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
