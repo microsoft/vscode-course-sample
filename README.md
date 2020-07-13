@@ -1,6 +1,6 @@
-# DevContainers in Education
+# Dev Containers in Education
 
-A sample project demonstrating the use of DevContainers in education. This project includes a preconfigured Python DevContainer and two sample Python programming assignments. 
+A sample project demonstrating the use of development containers in education. This project includes a preconfigured Python dev container and two sample Python programming assignments. 
 
 For more information about developing in remote containers in Visual Studio Code, check out the [remote documentation](https://code.visualstudio.com/docs/remote/containers).
 
