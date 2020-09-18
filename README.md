@@ -1,3 +1,13 @@
+# CS 101: Intro to Python
+
+Pre-requisites: Please make sure you are running Python 3.8.x for this class. 
+
+# Course Objectives
+- To understand the basic concepts of computer programming in a high-level language.
+- To understand and become familiar with a number of simple data structures.
+- To be able to test and debug programs.
+
+
 # Dev Containers in Education
 
 A sample project demonstrating the use of development containers in education. This project includes a preconfigured Python dev container and two sample Python programming assignments. 
