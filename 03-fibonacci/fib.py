@@ -1,6 +1,6 @@
 #recursive approach
 numTerms = int(input("How many terms of Fibonacci sequence to print? "))
-# 0 1 1 2 3 5
+
 # main method
 def fibonacci(n):
     if n < 1:
