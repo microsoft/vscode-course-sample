@@ -6,7 +6,7 @@ numTerms = int(input("How many terms of Fibonacci sequence to print? "))
 
 # main method
 def fibonacci(n):
-    if n <= 1:
+    if n < 1: ##makethis n <= 1 for it to work
         return n
     else:
         return(fibonacci(n-1) + fibonacci(n-2))
