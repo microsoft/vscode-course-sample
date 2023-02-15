@@ -1,4 +1,4 @@
-words = ['magnificent', 'world', 'hello']
+words = ['magnificent', 'world', 'hello','python']
 
 words.sort()
 
